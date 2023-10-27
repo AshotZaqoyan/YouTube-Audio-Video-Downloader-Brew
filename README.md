@@ -1,4 +1,4 @@
-# 🎵 YouTube Audio and Video Downloader 🎥
+# 🎵 YouTube Audio and Video Downloader (Brew) 🎥
 
 This repository contains bash scripts to download audio and video content from YouTube using the `yt_dlp` library.
 
@@ -13,8 +13,8 @@ Before running the scripts, make sure you have the following installed:
 
 1. Clone the repository:
   ```console
-  git clone https://github.com/AshotZaqoyan/YouTube-Audio-Video-Downloader.git
-  cd YouTube_mp3_mp4_downloader
+  git clone https://github.com/AshotZaqoyan/YouTube-Audio-Video-Downloader-Brew.git
+  cd YouTube-Audio-Video-Downloader-Brew
   ```
 
 3. Install the `yt_dlp` library:📗
